@@ -14,3 +14,13 @@ Texto secundário: #6F6267
 Borda: #3D3140
 Detalhes: #BF9677 — nude/dourado queimado
 */
+
+body{
+    background-color: #2F252E;
+}
+p{
+    background-color: #6F6267;
+}
+h1{
+    background-color: #332B31 ;
+}
